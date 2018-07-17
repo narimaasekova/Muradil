@@ -49,6 +49,7 @@ driver.close();
 System.out.println("Test completed - ");
 
 System.out.println("Turkana changed");
+System.out.println("Turkana's second day changes have been made!!!");
 	}
 
 }
