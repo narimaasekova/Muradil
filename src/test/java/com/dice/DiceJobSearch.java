@@ -47,6 +47,8 @@ if( countResult>0) {
 }
 driver.close();
 System.out.println("Test completed - ");
+
+System.out.println("Turkana changed");
 	}
 
 }
