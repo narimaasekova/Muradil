@@ -50,6 +50,8 @@ System.out.println("Test completed - ");
 
 System.out.println("Turkana changed");
 System.out.println("Turkana's second day changes have been made!!!");
+System.out.println("Narima please accept this change as well, thanks a bunch!");
+
 	}
 
 }
